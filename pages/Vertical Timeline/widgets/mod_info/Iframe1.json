@@ -1,0 +1,58 @@
+{
+  "animateLoading": true,
+  "borderOpacity": 100,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderWidth": 1,
+  "bottomRow": 57,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "displayName": "Iframe",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "hideCard": false,
+  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.99e0e6020fd949e060892f1c6a291b5a.svg",
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "lska9hesjc",
+  "leftColumn": 0,
+  "mobileBottomRow": 35,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "onCanvasUI": {
+    "disableParentSelection": false,
+    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+  },
+  "parentColumnSpace": 13.6875,
+  "parentId": "j8nv7ay3hf",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "searchTags": [
+    "embed"
+  ],
+  "source": "https://www.example.com",
+  "srcDoc": "<div style=\"font-family: Verdana, Geneva, Tahoma, sans-serif;\">\n  <center><strong>Vertical Timeline</strong></center>\n  <p>This custom widget offers the following features:</p>\n  <ul>\n    <li><b>id:</b> A unique identifier for the widget .</li>\n    <li><b>mode:</b> Defines the style of the timeline (light or dark).</li>\n    <li><b>itemsPerPage:</b> Sets the number of items displayed on the screen, which can be either fixed or dynamic.</li>\n    <li><b>items:</b> This property holds the data to be displayed in the timeline, allowing for dynamic or static content.</li>\n  </ul>\n  <p>The widget dynamically updates itself whenever the data model changes.</p>\n  <p>Additionally, it detects clicks on each item's icon and returns the ID of the selected record. This functionality enables you to interact with the record, such as opening a modal window for editing.</p>\n  <p>The widget's styling leverages the Appsmith CSS API, ensuring it seamlessly adapts to the current theme.</p>\n  <p>Feel free to use it as a base and customize it further by adding more properties to the objects or modifying the widget itself.</p>\n  <p>This is the Original HTML Source:</p>\n  <ul>\n    <li>Author: EmaWebDesign</li>\n    <li>Link: https://github.com/topics/vertical-timeline</li>\n  </ul>\n</div>",
+  "tags": [
+    "Display"
+  ],
+  "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.542dc4e979f061c70c19af83e2460c35.svg",
+  "topRow": 4,
+  "type": "IFRAME_WIDGET",
+  "version": 1,
+  "widgetId": "020z64i6m4",
+  "widgetName": "Iframe1"
+}

@@ -1,0 +1,10 @@
+{{
+{
+ "Id" : appsmith.store.selEvent,
+ "title": inTitleUpdate.text,
+  "type": sel_TypeUpdate.selectedOptionValue,
+  "image": sel_IconUpdate.selectedOptionValue,
+  "text": rtx_EventCopy.text,
+  "user": appsmith.user.name
+}
+}}

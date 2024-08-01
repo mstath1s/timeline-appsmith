@@ -1,0 +1,10 @@
+{{
+{
+  "title": inTitle.text,
+  "type": sel_Type.selectedOptionValue,
+  "image": sel_Icon.selectedOptionValue,
+  "text": rtx_Event.text,
+  "date": moment().format('yyyy-MM-DD'),
+  "user": appsmith.user.name
+}
+}}

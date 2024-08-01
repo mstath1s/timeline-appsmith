@@ -1,0 +1,75 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignment": "left",
+  "animateLoading": true,
+  "bottomRow": 18,
+  "boxShadow": "none",
+  "defaultOptionValue": "D",
+  "displayName": "Radio Group",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "hideCard": false,
+  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.40dce3f754d60606830f83a23d1ac328.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "ytnc07thbk",
+  "label": "Sort",
+  "labelAlignment": "left",
+  "labelPosition": "Left",
+  "labelTextSize": "0.875rem",
+  "labelWidth": "3",
+  "leftColumn": 48,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 83,
+  "mobileLeftColumn": 1,
+  "mobileRightColumn": 21,
+  "mobileTopRow": 77,
+  "needsErrorInfo": false,
+  "onCanvasUI": {
+    "disableParentSelection": false,
+    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+  },
+  "options": [
+    {
+      "label": "Asc",
+      "value": "A"
+    },
+    {
+      "label": "Desc",
+      "value": "D"
+    }
+  ],
+  "originalBottomRow": 20,
+  "originalTopRow": 14,
+  "parentColumnSpace": 19.234375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 61,
+  "searchTags": [
+    "choice"
+  ],
+  "tags": [
+    "Toggles"
+  ],
+  "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.f1ed00d0b9588bed20e6359d9d03a790.svg",
+  "topRow": 14,
+  "type": "RADIO_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "7kp2eyz91m",
+  "widgetName": "rad_Sort"
+}
